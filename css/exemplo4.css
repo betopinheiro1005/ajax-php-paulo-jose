@@ -1,0 +1,23 @@
+div#container{
+    width: 700px;
+    height: max-content;
+    border: 1px solid black;
+    padding: 20px;
+    margin: 5px auto;
+}
+h1{
+    font-family: Verdana;
+    font-size: 20px;
+    text-transform: uppercase;
+    color: red;
+}
+h2{
+    font-family: Verdana;
+    font-size: 18px;
+    color: black;
+}
+input, label, #btn_enviar, #nIdade, #tbNome {
+    font-family: Verdana;
+    margin: 15px 0 15px 0;
+    display: block;
+}

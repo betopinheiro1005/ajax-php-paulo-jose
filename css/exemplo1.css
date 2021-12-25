@@ -1,0 +1,29 @@
+div#container{
+    width: 700px;
+    height: max-content;
+    border: 1px solid black;
+    padding: 20px;
+    margin: 5px auto;
+}
+h1{
+    font-family: Verdana;
+    font-size: 20px;
+    text-transform: uppercase;
+    color: red;
+}
+h2{
+    font-family: Verdana;
+    font-size: 18px;
+    color: black;
+}
+#btn_load{
+    font-family: Verdana;
+    font-size: 14px;
+    padding: 10px;
+    margin: 15px 0;
+}
+#retorno{
+    margin-top: 10px;
+    font-family: Verdana;
+    font-size: 14px;
+}
